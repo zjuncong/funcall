@@ -3,7 +3,7 @@
 ## 代码结构
 
 ```
-tool_demo/
+funcall/
 ├── app/
 │   ├── agent.py      # Agent核心逻辑
 │   ├── llm.py        # LLM配置
